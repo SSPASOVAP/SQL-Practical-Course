@@ -1,0 +1,3 @@
+CREATE USER User_MusicStore IDENTIFIED BY passxxxx;
+GRANT RESOURCE TO User_MusicStore;
+GRANT CREATE SESSION TO User_MusicStore;
