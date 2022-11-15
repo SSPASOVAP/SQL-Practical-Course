@@ -12,9 +12,10 @@ I’m preparing few more projects and would gladly accept guidelines from others
 * DDL Commands
 * DML Commands
 * Basic Select statements
+* Single-Row Functions
 * WHERE clause
 * Data Aggregation
 * HAVING clause
-* Built-in Functions
-* Subqueries and Joins
+* Analytical Functions
+* Subqueries, sets and Joins
 * Rank
